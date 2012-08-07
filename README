@@ -1,0 +1,12 @@
+PDFdoc
+
+PDFdoc is a wrapper for the PDFlib found here www.pdflib.com
+PDFdoc provides an intuitive and easy to use interface to access the PDFlib functionality.
+
+See package pdfdoc.example for an overview on how to use it.
+
+For current features and future development see ReleaseNotes.txt
+
+Don't hesitate to get in touch if you have questions or suggestions.
+
+This file was modified by IntelliJ IDEA 11.1.3 for binding GitHub repository
