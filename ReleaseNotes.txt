@@ -1,0 +1,15 @@
+Version 1.0
+Multiple page documents.
+General support for text and images with background and frame decorations.
+Advanced placement features: rotation, orientation.
+Advanced text formatting support with inline formatting.
+
+------------------------------
+FURTHER DEVELOPMENT:
+-From XML to PDF methods (currently only PDF to XML).
+-Add overlay or layer concept
+-Text flows support
+-Table support
+-Add paper size utility
+-Add color values utility
+-Unit test the code base.
